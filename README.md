@@ -1,5 +1,6 @@
 # Eliza_Chat-Bot
 This is my implementation of Eliza Chat Bot. I got the therapist patterns (intents.json) on Kaggle and adapted the code to run locally using python and Flask library.
+The intents.json was obteined in Kaggle: https://www.kaggle.com/datasets/elvis23/mental-health-conversational-data.
 
 To use it, you will need to install python 3, and the Flask library.
 
